@@ -1,0 +1,19 @@
+{
+  "name": "vue-w4-cli-template",
+  "version": "1.0.0",
+  "description": "vue webpack4 模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pc1995/vue-w4-cli-template.git"
+  },
+  "author": "dxpanchao@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pc1995/vue-w4-cli-template/issues"
+  },
+  "homepage": "https://github.com/pc1995/vue-w4-cli-template#readme"
+}
